@@ -1,0 +1,2 @@
+# checkbox
+android中listView上面的checkbox的单项和指导几个固定数量的选项
